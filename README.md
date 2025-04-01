@@ -18,7 +18,7 @@ Este es un bot automatizado para enviar recordatorios en WhatsApp sobre quién e
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/whatsapp-bot.git
+   git clone https://github.com/EricCarballo/whatsapp-bot.git
    ```
 2. Entra en el directorio del proyecto:
    ```bash
